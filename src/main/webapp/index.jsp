@@ -9,5 +9,7 @@
 </head>
 <body>
 	<%=new Apple().getName() %>
+	<br>
+	<%=new Apple().getColor() %>
 </body>
 </html>
