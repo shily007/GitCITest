@@ -10,6 +10,8 @@
 <body>
 	<%=new Apple().getName() %>
 	<br>
+	<%=new Apple().getName() %>
+	<br>
 	<%=new Apple().getColor() %>
 </body>
 </html>
