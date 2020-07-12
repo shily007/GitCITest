@@ -3,7 +3,7 @@ package com.dy.ci.entities;
 public class Apple {
 	
 	private String name = "Good Apple ||| Jenkins Test";
-	private String color = "red";
+	private String color = "red !!!";
 	
 	public String getName() {
 		return name;
